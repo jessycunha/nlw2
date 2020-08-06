@@ -1,0 +1,8 @@
+
+/* displays:
+    block: toda a linha
+    inline: o tamanho do elemento
+    flex: um ao lado do outro
+
+*/
+
